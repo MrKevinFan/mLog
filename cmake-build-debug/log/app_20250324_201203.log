@@ -1,0 +1,5 @@
+[2025-03-24 20:12:03.97] [DEBUG] [E:\CProject\mLog\src\main.c:12] This is a debug message
+[2025-03-24 20:12:03.97] [INFO] [E:\CProject\mLog\src\main.c:13] This is a info message 
+[2025-03-24 20:12:03.98] [WARN] [E:\CProject\mLog\src\main.c:14] This is a warn message
+[2025-03-24 20:12:03.98] [ERROR] [E:\CProject\mLog\src\main.c:15] This is a error message
+[2025-03-24 20:12:03.98] [FATAL] [E:\CProject\mLog\src\main.c:16] This is a fatal message
