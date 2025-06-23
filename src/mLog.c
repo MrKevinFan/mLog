@@ -1,4 +1,4 @@
-#include "mlog.h"
+#include "mLog.h"
 
 #ifdef _WIN32
 static HANDLE hConsole;
